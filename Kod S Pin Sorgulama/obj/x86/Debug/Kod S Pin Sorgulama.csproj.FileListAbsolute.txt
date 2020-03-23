@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Pin Sorgulama\Kod S Pin Sorgulama\bin\Debug\Kod S Pin Sorgulama.exe
+C:\Users\mrt_b\Desktop\Kod S Pin Sorgulama\Kod S Pin Sorgulama\bin\Debug\Kod S Pin Sorgulama.pdb
+C:\Users\mrt_b\Desktop\Kod S Pin Sorgulama\Kod S Pin Sorgulama\obj\x86\Debug\Kod S Pin Sorgulama.exe
+C:\Users\mrt_b\Desktop\Kod S Pin Sorgulama\Kod S Pin Sorgulama\obj\x86\Debug\Kod S Pin Sorgulama.pdb
